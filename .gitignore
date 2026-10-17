@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+Visualization/assets/heatmap_select.png
+.gitignore
+Visualization/assets/barcharts.png
+.gitignore
+Visualization/assets/heatmap.png
+Visualization/assets/scatterplot.png
+Visualization/datasets/Visualization/adult_all.csv
+Visualization/environment.yml
+
